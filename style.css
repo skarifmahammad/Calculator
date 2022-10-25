@@ -93,6 +93,6 @@ button:nth-child(20){
     background-color:#7d9330;
 }
 #keyboard > button:hover{
-    background-color: #bdbdbd;
+    background-color: rgba(0,0,0,0.3);
     transition: 0.5s;
 }
