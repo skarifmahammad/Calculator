@@ -13,12 +13,12 @@ body{
 #calculator {
     width: 320px;
     height: 520px;
-    background-color: #eaedef;
+    background-color: #9bc6e4;
     margin: 0 auto;
     top: 20px;
     position: relative;
     border-radius: 5px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(219, 215, 215, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 
     
@@ -35,7 +35,7 @@ body{
     margin: 0 20px;
     padding-top: 20px;
     font-size: 15px;
-    color: #919191;
+    color: #81e9ec;
 }
 #output {
     text-align: right;
